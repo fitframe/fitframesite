@@ -1,0 +1,15 @@
+.form-bt {
+    outline: #9976ff;
+    background-color: black;
+    color: white;
+    border-color: #9976ff;
+    font-size:xx-large;
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+}
+
+.form-bt:hover {
+    background-color: #9976ff;
+    transition: all 0.2s ease-in-out;
+}
+
